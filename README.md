@@ -2,6 +2,6 @@
 
 path e variáveis de ambiente = /etc/environment
 
-NODE_ENV="development"
+NODE_ENV="production"
 
 :/apps/shell-script:/opt/node/bin
