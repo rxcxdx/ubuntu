@@ -9,3 +9,9 @@ NODE_ENV="production"
 ```
 :/apps/shell-script:/opt/node/bin
 ```
+
+### disco
+
+```
+ext4 de 80GB
+```
