@@ -11,8 +11,8 @@ NODE_ENV="development"
 :/apps/shell-script:/opt/node/bin
 ```
 
-### disco
+### storage
 
 ```
-ext4 de 80GB
+ext4 de 40GB
 ```
