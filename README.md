@@ -16,3 +16,9 @@ NODE_ENV="development"
 ```
 ext4 de 40GB
 ```
+
+### foo
+
+```
+ln -s <ORIGEM> <DESTINO>
+```
