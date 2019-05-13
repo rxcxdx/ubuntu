@@ -1,4 +1,4 @@
-# ubuntu 18.04
+# ubuntu 18.04.2
 
 ### path e variáveis de ambiente = /etc/environment
 
